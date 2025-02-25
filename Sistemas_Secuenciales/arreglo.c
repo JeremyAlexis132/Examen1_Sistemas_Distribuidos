@@ -14,4 +14,4 @@ int main(){
     double tiempo = (double)(fin - inicio) / CLOCKS_PER_SEC;
     printf("Tiempo de ejecucion: %f\n", tiempo);
     return 0;
-}//
+}
